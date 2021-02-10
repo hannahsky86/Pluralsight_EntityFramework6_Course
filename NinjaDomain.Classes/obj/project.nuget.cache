@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ufW2ZPpMb13Jqt1jZI3iXJcXtaVWXiOJ03ic0IA2BZRxSfuxP7ZoWvKP6EHmo7QOixR1Tf+utbqKVH3KI2A+1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hanna\\source\\repos\\NinjaDomain.Classes\\NinjaDomain.Classes\\NinjaDomain.Classes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanna\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hanna\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

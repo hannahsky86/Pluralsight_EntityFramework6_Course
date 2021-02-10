@@ -1,0 +1,16 @@
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\bin\Debug\NinjaDomainDataModel.dll.config
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\bin\Debug\NinjaDomainDataModel.dll
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\bin\Debug\NinjaDomainDataModel.pdb
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\bin\Debug\EntityFramework.dll
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\bin\Debug\NinjaDomainClasses.dll
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\bin\Debug\NinjaDomainClasses.pdb
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\bin\Debug\EntityFramework.xml
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\obj\Debug\NinjaDomainDataModel.csprojAssemblyReference.cache
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\obj\Debug\NinjaDomainDataModel.csproj.CoreCompileInputs.cache
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\obj\Debug\NinjaDomainDataModel.csproj.CopyComplete
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\obj\Debug\NinjaDomainDataModel.dll
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\obj\Debug\NinjaDomainDataModel.pdb
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\obj\Debug\NinjaDomainDataModel.Migrations.Initial.resources
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\obj\Debug\NinjaDomainDataModel.csproj.GenerateResource.cache

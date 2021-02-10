@@ -1,0 +1,9 @@
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomain.DataModel\bin\Debug\netstandard2.0\NinjaDomain.DataModel.deps.json
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomain.DataModel\bin\Debug\netstandard2.0\NinjaDomain.DataModel.dll
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomain.DataModel\bin\Debug\netstandard2.0\NinjaDomain.DataModel.pdb
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomain.DataModel\obj\Debug\netstandard2.0\NinjaDomain.DataModel.csprojAssemblyReference.cache
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomain.DataModel\obj\Debug\netstandard2.0\NinjaDomain.DataModel.AssemblyInfoInputs.cache
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomain.DataModel\obj\Debug\netstandard2.0\NinjaDomain.DataModel.AssemblyInfo.cs
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomain.DataModel\obj\Debug\netstandard2.0\NinjaDomain.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomain.DataModel\obj\Debug\netstandard2.0\NinjaDomain.DataModel.dll
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomain.DataModel\obj\Debug\netstandard2.0\NinjaDomain.DataModel.pdb

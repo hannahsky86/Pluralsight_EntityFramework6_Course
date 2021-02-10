@@ -1,0 +1,9 @@
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomain.Classes\bin\Debug\netstandard2.0\NinjaDomain.Classes.deps.json
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomain.Classes\bin\Debug\netstandard2.0\NinjaDomain.Classes.dll
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomain.Classes\bin\Debug\netstandard2.0\NinjaDomain.Classes.pdb
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomain.Classes\obj\Debug\netstandard2.0\NinjaDomain.Classes.csprojAssemblyReference.cache
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomain.Classes\obj\Debug\netstandard2.0\NinjaDomain.Classes.AssemblyInfoInputs.cache
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomain.Classes\obj\Debug\netstandard2.0\NinjaDomain.Classes.AssemblyInfo.cs
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomain.Classes\obj\Debug\netstandard2.0\NinjaDomain.Classes.csproj.CoreCompileInputs.cache
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomain.Classes\obj\Debug\netstandard2.0\NinjaDomain.Classes.dll
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomain.Classes\obj\Debug\netstandard2.0\NinjaDomain.Classes.pdb
