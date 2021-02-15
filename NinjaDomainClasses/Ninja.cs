@@ -1,7 +1,5 @@
-﻿using NinjaDomain.Classes;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -21,24 +19,8 @@ namespace NinjaDomainClasses
         public int ClanId { get; set; }
         public List<NinjaEquipment> EquipmentOwned { get; set; }
         public System.DateTime DateOfBirth { get; set; }
-    }
-    public class Clan
-    {
-        public Clan()
-        {
-            Ninjas = new List<Ninja>();
-        }
-        public int Id { get; set; }
-        public string ClanName { get; set; }
-        public List<Ninja> Ninjas { get; set; }
-    }
-
-    public class NinjaEquipment
-    {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public EquipmentType Type { get; set; }
-        [Required]
-        public Ninja Ninja { get; set; }
+        public DateTime DateModified { get; set; }
+        public DateTime DateCreated { get; set; }
+        public bool IsDirty { get; set; }
     }
 }

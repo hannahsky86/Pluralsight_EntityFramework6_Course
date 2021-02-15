@@ -14,3 +14,6 @@ C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\obj\Debug\N
 C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\obj\Debug\NinjaDomainDataModel.Migrations.Initial.resources
 C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\obj\Debug\NinjaDomainDataModel.csproj.GenerateResource.cache
 C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\obj\Debug\NinjaDomainDataModel.Migrations.Update.resources
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\bin\Debug\NinjaDomainClasses.dll.config
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\bin\Debug\NinjaDomainDataModel.dll.config
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\obj\Debug\NinjaDomainDataModel.Migrations.AddedModificationHistory.resources

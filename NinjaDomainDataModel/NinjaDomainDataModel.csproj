@@ -51,6 +51,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataHelpers.cs" />
     <Compile Include="Migrations\202102100416037_Initial.cs" />
     <Compile Include="Migrations\202102100416037_Initial.designer.cs">
       <DependentUpon>202102100416037_Initial.cs</DependentUpon>
@@ -58,6 +59,10 @@
     <Compile Include="Migrations\202102120249130_Update.cs" />
     <Compile Include="Migrations\202102120249130_Update.designer.cs">
       <DependentUpon>202102120249130_Update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202102151541019_AddedModificationHistory.cs" />
+    <Compile Include="Migrations\202102151541019_AddedModificationHistory.designer.cs">
+      <DependentUpon>202102151541019_AddedModificationHistory.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="NinjaContext.cs" />
@@ -70,6 +75,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <None Include="App.config" />
     <None Include="ClassDiagram1.cd" />
     <None Include="packages.config" />
   </ItemGroup>
@@ -79,6 +85,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202102120249130_Update.resx">
       <DependentUpon>202102120249130_Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202102151541019_AddedModificationHistory.resx">
+      <DependentUpon>202102151541019_AddedModificationHistory.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

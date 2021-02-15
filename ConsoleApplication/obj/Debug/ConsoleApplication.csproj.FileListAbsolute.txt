@@ -14,3 +14,5 @@ C:\Users\hanna\source\repos\NinjaDomain.Classes\ConsoleApplication\obj\Debug\Con
 C:\Users\hanna\source\repos\NinjaDomain.Classes\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CopyComplete
 C:\Users\hanna\source\repos\NinjaDomain.Classes\ConsoleApplication\obj\Debug\ConsoleApplication.exe
 C:\Users\hanna\source\repos\NinjaDomain.Classes\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\hanna\source\repos\NinjaDomain.Classes\ConsoleApplication\bin\Debug\NinjaDomainClasses.dll.config
+C:\Users\hanna\source\repos\NinjaDomain.Classes\ConsoleApplication\bin\Debug\NinjaDomainDataModel.dll.config
