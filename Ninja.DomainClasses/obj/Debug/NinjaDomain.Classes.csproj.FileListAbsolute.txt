@@ -1,0 +1,6 @@
+C:\Users\hanna\Downloads\entity-framework-6-getting-started\04\demos\Distribution\Ninja.DomainClasses\bin\Debug\NinjaDomain.Classes.dll
+C:\Users\hanna\Downloads\entity-framework-6-getting-started\04\demos\Distribution\Ninja.DomainClasses\bin\Debug\NinjaDomain.Classes.pdb
+C:\Users\hanna\Downloads\entity-framework-6-getting-started\04\demos\Distribution\Ninja.DomainClasses\obj\Debug\NinjaDomain.Classes.csprojAssemblyReference.cache
+C:\Users\hanna\Downloads\entity-framework-6-getting-started\04\demos\Distribution\Ninja.DomainClasses\obj\Debug\NinjaDomain.Classes.csproj.CoreCompileInputs.cache
+C:\Users\hanna\Downloads\entity-framework-6-getting-started\04\demos\Distribution\Ninja.DomainClasses\obj\Debug\NinjaDomain.Classes.dll
+C:\Users\hanna\Downloads\entity-framework-6-getting-started\04\demos\Distribution\Ninja.DomainClasses\obj\Debug\NinjaDomain.Classes.pdb

@@ -1,11 +1,11 @@
 ﻿using NinjaDomain.Classes;
+using NinjaDomain.DataModel;
 using System;
 using System.Data.Entity;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using NinjaDomainClasses;
 
 namespace ConsoleApplication
 {
@@ -14,10 +14,10 @@ namespace ConsoleApplication
         static void Main(string[] args)
         {
             Database.SetInitializer(new NullDatabaseInitializer<NinjaContext>());
-             InsertNinja();
-             InsertMultipleNinjas();
+           // InsertNinja();
+            // InsertMultipleNinjas();
             //SimpleNinjaQueries();
-            QueryAndUpdateNinja();
+            //QueryAndUpdateNinja();
             //DeleteNinja();
             //RetrieveDataWithFind();
             //RetrieveDataWithStoredProc();
@@ -31,6 +31,7 @@ namespace ConsoleApplication
             //QueryAndUpdateNinjaDisconnected();
 
             //ReseedDatabase();
+          DataHelpers.NewDbWithSeed();
             Console.ReadKey();
         }
 
@@ -40,9 +41,9 @@ namespace ConsoleApplication
         {
             var ninja = new Ninja
             {
-                Name = "SampsonSan1",
+                Name = "SampsonSan",
                 ServedInOniwaban = false,
-                DateOfBirth = new DateTime(2018, 1, 28),
+                DateOfBirth = new DateTime(2008, 1, 28),
                 ClanId = 1
 
             };
@@ -58,18 +59,17 @@ namespace ConsoleApplication
         {
             var ninja1 = new Ninja
             {
-                Name = "Leonardo1",
+                Name = "Leonardo",
                 ServedInOniwaban = false,
-                DateOfBirth = new DateTime(1985, 1, 1),
+                DateOfBirth = new DateTime(1984, 1, 1),
                 ClanId = 1
             };
             var ninja2 = new Ninja
             {
-                Name = "Raphael1",
+                Name = "Raphael",
                 ServedInOniwaban = false,
-                DateOfBirth = new DateTime(1986, 1, 1),
+                DateOfBirth = new DateTime(1985, 1, 1),
                 ClanId = 1
-
             };
             using (var context = new NinjaContext())
             {
