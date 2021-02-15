@@ -1,4 +1,3 @@
-C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\bin\Debug\NinjaDomainDataModel.dll.config
 C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\bin\Debug\NinjaDomainDataModel.dll
 C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\bin\Debug\NinjaDomainDataModel.pdb
 C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\bin\Debug\EntityFramework.dll
@@ -14,3 +13,4 @@ C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\obj\Debug\N
 C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\obj\Debug\NinjaDomainDataModel.pdb
 C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\obj\Debug\NinjaDomainDataModel.Migrations.Initial.resources
 C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\obj\Debug\NinjaDomainDataModel.csproj.GenerateResource.cache
+C:\Users\hanna\source\repos\NinjaDomain.Classes\NinjaDomainDataModel\obj\Debug\NinjaDomainDataModel.Migrations.Update.resources
